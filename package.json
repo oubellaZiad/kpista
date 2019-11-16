@@ -1,0 +1,13 @@
+{
+  "name": "web",
+  "version": "1.0.0",
+  "description": "Node.js on Docker",
+  "author": "Ziad OUBELLA",
+  "script": {
+    "start": "nodemon -L index.js"
+  },
+  "dependencies": {
+    "express": "^4.16.1",
+    "nodemon": "^1.19.4"
+  }
+}
